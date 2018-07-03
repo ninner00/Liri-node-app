@@ -1,0 +1,13 @@
+User Command: node liri.js movie-this fight club 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this clue 
+
+ERROR: Retrieving OMDB entry -- nullutf8ERROR: Retrieving OMDB entry -- nullutf8ERROR: Retrieving OMDB entry -- nullutf8ERROR: Retrieving OMDB entry -- nullutf8ERROR: Retrieving OMDB entry -- nullutf8ERROR: Retrieving OMDB entry -- nullutf8THis iS nOt WOrKinG: Retrieving OMDB entry -- nullTitle: Fight Club
+Release Year: 1999
+IMdB Rating: 8.8
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+Country: USA, Germany
+Language: English
+Plot: An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
